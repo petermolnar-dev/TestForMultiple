@@ -14,5 +14,6 @@ class ViewController: UIViewController {
     // Test for define bitbucket as an additional push
     // Test with no pushurl, but 2 urls
     // Test urls switched in order, github is second.
+    // Test with GitLab added to the url list
 }
 
