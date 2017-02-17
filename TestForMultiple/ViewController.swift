@@ -20,5 +20,7 @@ class ViewController: UIViewController {
     // Trying to push from post-commit
     // Trying to push from post-commit second time to see the ssh error
     // Trying to push from post-commit second time to see the ssh error 2
+    // Playing with GIT_SSH
+    // Changing to post-update
 }
 
