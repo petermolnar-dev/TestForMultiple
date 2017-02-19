@@ -26,5 +26,6 @@ class ViewController: UIViewController {
     // Change id_rsa
     // Pukk pakk Pikk
     // Trying to catch Xcode errorlog
+    // Trying to log something....
 }
 
