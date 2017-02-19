@@ -38,5 +38,6 @@ class ViewController: UIViewController {
     // Try without export....
     // Sending messages to /dev/nul
     // Try to hook on post-update
+    // Pre-push ???
 }
 
