@@ -24,6 +24,6 @@ class ViewController: UIViewController {
     // Changing to post-update
     // Try with post-commit
     // Change id_rsa
-    // Pukk pakk
+    // Pukk pakk Pikk
 }
 
