@@ -39,5 +39,6 @@ class ViewController: UIViewController {
     // Sending messages to /dev/nul
     // Try to hook on post-update
     // Pre-push ???
+    // PRe push works?
 }
 
