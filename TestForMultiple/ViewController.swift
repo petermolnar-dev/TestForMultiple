@@ -25,5 +25,6 @@ class ViewController: UIViewController {
     // Try with post-commit
     // Change id_rsa
     // Pukk pakk Pikk
+    // Trying to catch Xcode errorlog
 }
 
