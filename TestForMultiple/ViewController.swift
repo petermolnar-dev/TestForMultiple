@@ -33,5 +33,6 @@ class ViewController: UIViewController {
     // Dev null as config
     // Tryning to echo some paramters
     // Trying echo again
+    // Try to echo the wrapper scriopt
 }
 
