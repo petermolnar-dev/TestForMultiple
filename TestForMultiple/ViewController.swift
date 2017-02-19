@@ -31,5 +31,6 @@ class ViewController: UIViewController {
     // Trick with ssh-agent
     // Backup2
     // Dev null as config
+    // Tryning to echo some paramters
 }
 
