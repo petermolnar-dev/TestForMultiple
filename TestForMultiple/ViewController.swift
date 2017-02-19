@@ -27,5 +27,6 @@ class ViewController: UIViewController {
     // Pukk pakk Pikk
     // Trying to catch Xcode errorlog
     // Trying to log something....
+    // Exit 0?
 }
 
