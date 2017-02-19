@@ -36,5 +36,6 @@ class ViewController: UIViewController {
     // Try to echo the wrapper scriopt
     // Try with export
     // Try without export....
+    // Sending messages to /dev/nul
 }
 
