@@ -28,5 +28,6 @@ class ViewController: UIViewController {
     // Trying to catch Xcode errorlog
     // Trying to log something....
     // Exit 0?
+    // Trick with ssh-agent
 }
 
